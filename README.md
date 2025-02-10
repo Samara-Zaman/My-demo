@@ -1,3 +1,4 @@
 # My-demo
 This is my first Git repository.
-Author-Samara Zaman
+<br>
+Author-Samara (My Demo)
